@@ -1,0 +1,115 @@
+.page-header,
+.page-footer {
+  background-color: #EEDD82;
+  padding: 0.5em 1em 0.1em 1em;
+}
+
+.page-footer {
+  text-align: center;
+}
+
+.page-body {
+  padding: 1em;
+  background-color: #F5F5DC;
+}
+
+.title {
+  font-size: 123.1%;
+}
+
+.release_info {
+  text-align: right;
+}
+
+.hidden {
+  display: none;
+}
+
+.message {
+  border: 2px solid #999;
+  width: 80%;
+  margin: 1em 0;
+  padding: 1em;
+  border-radius: 1em;
+}
+
+.info {
+  border: 2px solid #084594;
+  background-color: #deebf7;
+}
+
+.wait {
+  border: 2px solid #525252;
+  background-color: #f0f0f0;
+}
+
+.warn {
+  border: 2px solid #8c2d04;
+  background-color: #fff7bc;
+  color: #8c2d04;
+}
+
+.error {
+  border: 2px solid #99000d;
+  background-color: #fee0d2;
+  color: #99000d;
+}
+
+.success {
+  border: 2px solid #005824;
+  background-color: #f7fcf5;
+  color: #005824;
+}
+
+i.fa-info-circle {
+  color: #0c2c84;
+}
+
+i.fa-check-circle {
+  color: #005824;
+}
+
+i.fa-exclamation-circle {
+  color: #8c2d04;
+}
+
+i.fa-times-circle {
+  color: #99000d;
+}
+
+.center-icon {
+  text-align: center;
+}
+
+.fa-5 {
+  font-size: 10em;
+}
+
+form.simple-form fieldset {
+  margin-bottom: 1em;
+}
+
+form.simple-form legend {
+  background-color: #FFEDA0;
+  padding: 0.3em;
+}
+
+form.simple-form label {
+  margin-top: 1em;
+}
+
+button[type="reset"] {
+  margin-left: 2em;
+  font-size: 83%;
+}
+
+span.hint {
+  font-size: 83%;
+  color: #666;
+  padding-right: 1em;
+}
+
+#dotplot {
+  border: 2px solid #CCC;
+  background-color: white;
+}
